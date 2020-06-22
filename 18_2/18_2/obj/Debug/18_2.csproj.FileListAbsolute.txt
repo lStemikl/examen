@@ -1,0 +1,10 @@
+C:\Users\creep\Desktop\учеба\программирование\степа\18_2\18_2\bin\Debug\18_2.exe.config
+C:\Users\creep\Desktop\учеба\программирование\степа\18_2\18_2\bin\Debug\18_2.exe
+C:\Users\creep\Desktop\учеба\программирование\степа\18_2\18_2\bin\Debug\18_2.pdb
+C:\Users\creep\Desktop\учеба\программирование\степа\18_2\18_2\obj\Debug\18_2.csprojAssemblyReference.cache
+C:\Users\creep\Desktop\учеба\программирование\степа\18_2\18_2\obj\Debug\_18_2.formMain.resources
+C:\Users\creep\Desktop\учеба\программирование\степа\18_2\18_2\obj\Debug\_18_2.Properties.Resources.resources
+C:\Users\creep\Desktop\учеба\программирование\степа\18_2\18_2\obj\Debug\18_2.csproj.GenerateResource.cache
+C:\Users\creep\Desktop\учеба\программирование\степа\18_2\18_2\obj\Debug\18_2.csproj.CoreCompileInputs.cache
+C:\Users\creep\Desktop\учеба\программирование\степа\18_2\18_2\obj\Debug\18_2.exe
+C:\Users\creep\Desktop\учеба\программирование\степа\18_2\18_2\obj\Debug\18_2.pdb
